@@ -1,4 +1,3 @@
-<br />
 <h1 align="center"><b>Hi! I'm Andrea Puddu</h1>
 <div align="center">
 <a href="https://linkedin.com/in/info-apuddu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -10,14 +9,14 @@
   
   
  <div  align="center">
-   
+  
 🟠 frontend developer | UI designer
   <br />
 🟣 based in Berlin, Germany
   <br />
 🟠 currently learning React
   <br />
-   🟣 switched career in my late 30s and learned coding all by myself
+ 🟣 switched career in my late 30s and learned coding all by myself
   <br />
   <br />
   <br />
