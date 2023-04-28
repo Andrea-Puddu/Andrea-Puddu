@@ -25,7 +25,7 @@ currently learning React
    
   <br />
   <br />
-  <br />
+
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Puddu&layout=compact&theme=radical" width="500" />
  
