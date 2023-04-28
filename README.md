@@ -9,26 +9,30 @@
   
   
  <div  align="center">
-  
-🟠 frontend developer | UI designer
+ 
+     
+ <p style="text-align: justify;">
+frontend developer | UI designer
   <br />
-🟣 based in Berlin, Germany
+based in Berlin, Germany
   <br />
-🟠 currently learning React
+currently learning React
   <br />
- 🟣 switched career in my late 30s and learned coding all by myself
+ switched career in my late 30s and learned coding all by myself 
+   <br />
+ open to job opportunities
+  </p> 
+   
   <br />
   <br />
   <br />
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Puddu&layout=compact&theme=radical" width="500" />
-  
-  
+ 
 <br />
 <br />
 <br />
-   
-  
+
 <p align="center""> 
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -44,8 +48,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></p>
-                                                                                                          
-                                                                                                          
+                                                                                                                                                              
 <br />
 <br />
 
@@ -53,7 +56,7 @@
 
 <br />
 
-                                                                                                          
-<p><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee icon" /></a></p><br><br>
+<!--<p><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee icon" /></a></p>-->  
+                            
 </div>
   
