@@ -11,7 +11,7 @@
  <div  align="center">
  
      
- <p style="text-align: justify;">
+ <p>
 frontend developer | UI designer
   <br />
 based in Berlin, Germany
