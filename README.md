@@ -51,10 +51,6 @@ currently learning Typescript and NextJs
 <br />
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrea-Puddu&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br />
-
 <!--<p><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee icon" /></a></p>-->  
                             
 </div>
