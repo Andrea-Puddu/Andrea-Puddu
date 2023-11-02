@@ -16,7 +16,7 @@ frontend developer | UI designer
   <br />
 based in Berlin, Germany
   <br />
-currently learning React
+currently learning Typescript and NextJs
   <br />
  switched career in my late 30s and learned coding all by myself 
    <br />
@@ -35,7 +35,6 @@ currently learning React
 
 <p align="center""> 
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
